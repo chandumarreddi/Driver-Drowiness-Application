@@ -1,0 +1,11 @@
+
+opencv-python
+keras
+tensorflow
+pygame
+matplotlib
+streamlit
+streamlit-webrtc
+scipy
+mediapipe
+
